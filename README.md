@@ -18,7 +18,7 @@ This project utilizes the MediaPipe library to enable users to control presentat
   <img src="images/image1.png" alt="Gesture-Controlled Presentation Demo">
 </p>
 
-<p align="center"><em>Figure 2: Demonstration of the gesture-controlled presentation in action.</em></p>
+<p align="center"><em>Figure 1: Demonstration of the gesture-controlled presentation in action.</em></p>
 
 ## Features
 
